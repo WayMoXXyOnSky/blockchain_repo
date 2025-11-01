@@ -1,0 +1,625 @@
+{
+  "orders": [
+    {
+      "side": "buy",
+      "price": 0.29057,
+      "quantity": 2.1222654323,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-202736-1761988366697",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202736-1761988366697",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2906",
+          "averagePrice": "0",
+          "quantity": "2.1222",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:12:46.698Z",
+          "updated": "2025-11-01T09:12:46.700Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988398,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202736-1761988366697",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2906",
+          "averagePrice": "0",
+          "quantity": "2.1222",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:12:46.698Z",
+          "updated": "2025-11-01T09:28:45.828Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.281675,
+      "quantity": 2.1892843407,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-202737-1761988366778",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202737-1761988366778",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2817",
+          "averagePrice": "0",
+          "quantity": "2.1892",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:12:46.778Z",
+          "updated": "2025-11-01T09:12:46.780Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988399,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202737-1761988366778",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2817",
+          "averagePrice": "0",
+          "quantity": "2.1892",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:12:46.778Z",
+          "updated": "2025-11-01T09:28:45.866Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.27278,
+      "quantity": 2.2606740475,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-202738-1761988366835",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202738-1761988366835",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2728",
+          "averagePrice": "0",
+          "quantity": "2.2606",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:12:46.835Z",
+          "updated": "2025-11-01T09:12:46.838Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988399,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202738-1761988366835",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2728",
+          "averagePrice": "0",
+          "quantity": "2.2606",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:12:46.835Z",
+          "updated": "2025-11-01T09:28:45.903Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.290472,
+      "quantity": 0.0028425,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-203345-1761988719319",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203345-1761988719319",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2905",
+          "averagePrice": "0",
+          "quantity": "0.0028",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:18:39.319Z",
+          "updated": "2025-11-01T09:18:39.322Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988751,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203345-1761988719319",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2905",
+          "averagePrice": "0",
+          "quantity": "0.0028",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:18:39.319Z",
+          "updated": "2025-11-01T09:28:45.944Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.28158,
+      "quantity": 0.0029322632,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-203346-1761988719398",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203346-1761988719398",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2816",
+          "averagePrice": "0",
+          "quantity": "0.0029",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:18:39.398Z",
+          "updated": "2025-11-01T09:18:39.401Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988751,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203346-1761988719398",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2816",
+          "averagePrice": "0",
+          "quantity": "0.0029",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:18:39.398Z",
+          "updated": "2025-11-01T09:28:46.001Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.272688,
+      "quantity": 0.0030278805,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-203347-1761988719451",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203347-1761988719451",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2727",
+          "averagePrice": "0",
+          "quantity": "0.003",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:18:39.451Z",
+          "updated": "2025-11-01T09:18:39.455Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988751,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-203347-1761988719451",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2727",
+          "averagePrice": "0",
+          "quantity": "0.003",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "cancelled",
+          "created": "2025-11-01T09:18:39.451Z",
+          "updated": "2025-11-01T09:28:46.040Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.290472,
+      "quantity": 2.40987e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988757
+    },
+    {
+      "side": "buy",
+      "price": 0.28158,
+      "quantity": 2.48597e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988757
+    },
+    {
+      "side": "buy",
+      "price": 0.272688,
+      "quantity": 2.56704e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988757
+    },
+    {
+      "side": "buy",
+      "price": 0.290374,
+      "quantity": 2.41068e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988858
+    },
+    {
+      "side": "buy",
+      "price": 0.281485,
+      "quantity": 2.48681e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988858
+    },
+    {
+      "side": "buy",
+      "price": 0.272596,
+      "quantity": 2.5679e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988858
+    },
+    {
+      "side": "buy",
+      "price": 0.290374,
+      "quantity": 2.41068e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988871
+    },
+    {
+      "side": "buy",
+      "price": 0.281485,
+      "quantity": 2.48681e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988871
+    },
+    {
+      "side": "buy",
+      "price": 0.272596,
+      "quantity": 2.5679e-05,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": false,
+        "message": "quantity type check failed",
+        "data": {
+          "value": "0.0"
+        },
+        "code": 552,
+        "type": "ERROR_VALIDATION"
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988871
+    },
+    {
+      "side": "buy",
+      "price": 0.290472,
+      "quantity": 2.1229814463,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-204344-1761989368091",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204344-1761989368091",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2905",
+          "averagePrice": "0",
+          "quantity": "2.1229",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.092Z",
+          "updated": "2025-11-01T09:29:28.096Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761989400,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204344-1761989368091",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2905",
+          "averagePrice": "0",
+          "quantity": "2.1229",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.092Z",
+          "updated": "2025-11-01T09:29:28.096Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.28158,
+      "quantity": 2.1900229656,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-204345-1761989368169",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204345-1761989368169",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2816",
+          "averagePrice": "0",
+          "quantity": "2.19",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.169Z",
+          "updated": "2025-11-01T09:29:28.171Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761989400,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204345-1761989368169",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2816",
+          "averagePrice": "0",
+          "quantity": "2.19",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.169Z",
+          "updated": "2025-11-01T09:29:28.171Z"
+        }
+      }
+    },
+    {
+      "side": "buy",
+      "price": 0.272688,
+      "quantity": 2.261436758,
+      "pair": "TRX/USDT",
+      "order_id": "TRX-USDT-204346-1761989368245",
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204346-1761989368245",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2727",
+          "averagePrice": "0",
+          "quantity": "2.2614",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.245Z",
+          "updated": "2025-11-01T09:29:28.247Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761989400,
+      "status_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-204346-1761989368245",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2727",
+          "averagePrice": "0",
+          "quantity": "2.2614",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:29:28.245Z",
+          "updated": "2025-11-01T09:29:28.247Z"
+        }
+      }
+    }
+  ]
+}

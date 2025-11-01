@@ -1,0 +1,90 @@
+[INFO] Получаем баланс USDT...
+[INFO] Баланс (raw): {'status': True, 'result': {'available': '1.858129', 'witheld': '0.000000', 'total': '1.858129', 'pending': '0.000000', 'currencyDetails': {'name': 'Tether', 'depositActive': True, 'withdrawActive': True, 'currencyType': 'crypto'}, 'summary': {'BTC': '0.000017', 'USDT': '1.858129', 'BTCPrice': 9.205856254950587e-06, 'USDTPrice': 1}}}
+[INFO] Доступно USDT: 1.858129
+[INFO] Получаем параметры символа и цену для TRX/USDT ...
+[INFO] Лучшая цена покупки (best bid) для TRX/USDT: 0.2965
+[INFO] Выставляем 3 лимитных покупок для TRX/USDT ...
+[OK] Покупка выставлена. order_id=None price=0.29057 qty≈2.1222654323
+[OK] Покупка выставлена. order_id=None price=0.281675 qty≈2.1892843407
+[OK] Покупка выставлена. order_id=None price=0.27278 qty≈2.2606740475
+[INFO] Сохраняем результаты в orders.json
+[INFO] Проверяем статусы buy-ордеров (один проход)...
+[WARN] У ордера нет order_id, пропускаем: {'status': True, 'result': {'orderID': 'TRX-USDT-202736-1761988366697', 'userId': '6900e4666b4792a360ee1a11', 'side': 'buy', 'type': 'limit', 'subType': 'gtc', 'price': '0.2906', 'averagePrice': '0', 'quantity': '2.1222', 'cumQuantity': '0', 'cumQuoteQuantity': '0', 'cumCommission': '0', 'symbol': 'TRX/USDT', 'status': 'new', 'created': '2025-11-01T09:12:46.698Z', 'updated': '2025-11-01T09:12:46.700Z'}}
+[WARN] У ордера нет order_id, пропускаем: {'status': True, 'result': {'orderID': 'TRX-USDT-202737-1761988366778', 'userId': '6900e4666b4792a360ee1a11', 'side': 'buy', 'type': 'limit', 'subType': 'gtc', 'price': '0.2817', 'averagePrice': '0', 'quantity': '2.1892', 'cumQuantity': '0', 'cumQuoteQuantity': '0', 'cumCommission': '0', 'symbol': 'TRX/USDT', 'status': 'new', 'created': '2025-11-01T09:12:46.778Z', 'updated': '2025-11-01T09:12:46.780Z'}}
+[WARN] У ордера нет order_id, пропускаем: {'status': True, 'result': {'orderID': 'TRX-USDT-202738-1761988366835', 'userId': '6900e4666b4792a360ee1a11', 'side': 'buy', 'type': 'limit', 'subType': 'gtc', 'price': '0.2728', 'averagePrice': '0', 'quantity': '2.2606', 'cumQuantity': '0', 'cumQuoteQuantity': '0', 'cumCommission': '0', 'symbol': 'TRX/USDT', 'status': 'new', 'created': '2025-11-01T09:12:46.835Z', 'updated': '2025-11-01T09:12:46.838Z'}}
+[DONE] Один проход проверки завершён. Для постоянного мониторинга — запускайте периодически (или в цикле).
+[RESULT] Сохранённые записи: {
+  "orders": [
+    {
+      "side": "buy",
+      "price": 0.29057,
+      "quantity": 2.1222654323,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202736-1761988366697",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2906",
+          "averagePrice": "0",
+          "quantity": "2.1222",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:12:46.698Z",
+          "updated": "2025-11-01T09:12:46.700Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988398
+    },
+    {
+      "side": "buy",
+      "price": 0.281675,
+      "quantity": 2.1892843407,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202737-1761988366778",
+          "userId": "6900e4666b4792a360ee1a11",
+          "side": "buy",
+          "type": "limit",
+          "subType": "gtc",
+          "price": "0.2817",
+          "averagePrice": "0",
+          "quantity": "2.1892",
+          "cumQuantity": "0",
+          "cumQuoteQuantity": "0",
+          "cumCommission": "0",
+          "symbol": "TRX/USDT",
+          "status": "new",
+          "created": "2025-11-01T09:12:46.778Z",
+          "updated": "2025-11-01T09:12:46.780Z"
+        }
+      },
+      "linked_sell_order": null,
+      "created_at": 1761988399
+    },
+    {
+      "side": "buy",
+      "price": 0.27278,
+      "quantity": 2.2606740475,
+      "pair": "TRX/USDT",
+      "order_id": null,
+      "status": "NEW",
+      "created_raw_response": {
+        "status": true,
+        "result": {
+          "orderID": "TRX-USDT-202738-1761988366835",
+
+C:\Users\a.bernadsky\Desktop\university\4 курс\Технологии блокчейн\Blockchain lab\blockchain\lab8>
